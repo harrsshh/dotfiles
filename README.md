@@ -1,8 +1,3 @@
 # dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
-# dotfiles
+
+dotfiles for my ubuntu-i3

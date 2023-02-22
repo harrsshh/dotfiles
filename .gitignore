@@ -1,0 +1,8 @@
+pulse/
+ibus/
+dconf/
+gtk-3.0/
+evolution/
+evolution/sources
+user-dirs.locale
+user-dirs.dirs
